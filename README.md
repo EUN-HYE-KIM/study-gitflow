@@ -5,6 +5,9 @@
 
 #### 📋 스터디 내용  
 - Git Flow
+  - Branch
+  - Pull Request
+  - Merge
 - Commit Message Convention
 
 
