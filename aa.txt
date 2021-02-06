@@ -1,5 +1,0 @@
-dd
-
-
-gather 출력!!!!
->>>>>>> origin/develop
